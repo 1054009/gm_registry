@@ -1,0 +1,7 @@
+===================
+    gm_registry
+===================
+
+Brings back the recently removed debug registry in the form of a global, _R.
+
+NOTE: The registry was removed for a reason, there are multiple security vulnerabilities surrounding it. Use at your own risk.
