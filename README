@@ -2,6 +2,6 @@
     gm_registry
 ===================
 
-Brings back the recently removed debug registry in the form of a global, _R.
+Brings back the recently removed debug registry. Restores the original functionality of ``debug.getregistry()`` and adds a new global _R.
 
 NOTE: The registry was removed for a reason, there are multiple security vulnerabilities surrounding it. Use at your own risk.
